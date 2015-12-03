@@ -20,7 +20,7 @@
   "dependencies": {
     "anchor": "~0.10.2",
     "async": "~1.2.0",
-    "background-compute": "0.0.1",
+    "background-compute": "0.0.5",
     "bluebird": "~2.9.25",
     "deep-diff": "~0.3.0",
     "lodash": "~3.9.1",
