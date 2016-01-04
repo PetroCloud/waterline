@@ -67,7 +67,7 @@ You may also supply an array of adapters and Waterline will map out the methods 
 
 #### Community Adapters
 
-  - [PostgreSQL](https://github.com/particlebanana/sails-postgresql) - *0.9+ compatible*
+  - [PostgreSQL](https://github.com/balderdashy/sails-postgresql) - *0.9+ compatible*
   - [MySQL](https://github.com/balderdashy/sails-mysql) - *0.9+ compatible*
   - [MongoDB](https://github.com/balderdashy/sails-mongo) - *0.9+ compatible*
   - [Memory](https://github.com/balderdashy/sails-memory) - *0.9+ compatible*
@@ -100,7 +100,7 @@ Available options are:
   - `attributes` A hash of attributes to be defined for a model
   - `autoCreatedAt` and `autoUpdatedAt` Set false to prevent creating `createdAt` and `updatedAt` properties in your model
   - `autoPK` Set false to prevent creating `id`. By default `id` will be created as index with auto increment
-  - [lifecyle callbacks](#lifecycle-callbacks)
+  - [lifecycle callbacks](#lifecycle-callbacks)
   - any other class method you define!
 
 #### Attributes
